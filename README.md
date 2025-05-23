@@ -17,7 +17,7 @@ It includes a full 13-month calendar view
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the repository
+### 1. Clone the repository, Install dependencies & Start the development server
 
 ```bash
 git clone https://github.com/Teeceeooo/ifc.git
